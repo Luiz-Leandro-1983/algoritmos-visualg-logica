@@ -1,8 +1,8 @@
 Algoritmo "soma"
 
-// Unimar - Universidade de Marília
-// Graduação: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
-// Disciplina   : [Algorítimos e Lógica de Programação]
+// Unimar - Universidade de Marilia
+// Graduacao: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
+// Disciplina   : [Algoritimos e Logica de Programacao]
 // Professor   : Ronie Tokumo
 
 Var
