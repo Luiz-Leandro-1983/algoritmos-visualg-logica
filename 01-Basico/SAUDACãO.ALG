@@ -11,7 +11,7 @@ Var
    idade: inteiro
    peso: real
    altura: real
-    genero: caractere
+   genero: caractere
 
 
 Inicio
@@ -36,7 +36,7 @@ Inicio
    leia (altura)
    escreval ("")
 
-   escreva ( " Digite Seu Gênero: " )
+   escreva ( " Digite Seu genero: " )
    leia (genero)
    escreval ("")
 
