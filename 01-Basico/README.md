@@ -1,6 +1,6 @@
 # Nivel Básico
 
-## Exercícios que englobam fundamentos tais:
+## Exercícios Que Englobam os Seguintes Fundamentos:
 
 **Conceitos Abordados**
 
