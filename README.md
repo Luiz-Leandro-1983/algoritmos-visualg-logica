@@ -1,8 +1,9 @@
 # algoritmos-visualg-logica
 
-![GitHub](https://img.shields.io/badge/GitHub-Portfólio-black)
-![VisualG](https://img.shields.io/badge/VisualG-Lógica-blue)
-![Status](https://img.shields.io/badge/Status-Em%20Aprendizado-green)
+<p align="center">
+  <img src="images/banner.png" alt="Banner VisualG" width="100%">
+</p>
 
+# 💻 Algoritmos VisualG
 
-Exercícios e desafios de lógica e algoritmos desenvolvidos no visualG.
+Repositório de exercícios, desafios e algoritmos desenvolvidos durante meus estudos de lógica de programação.
