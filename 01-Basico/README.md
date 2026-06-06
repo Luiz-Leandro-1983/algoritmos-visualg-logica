@@ -20,3 +20,9 @@
   SOMA.ALG -> Programa que realiza a operação matemática da soma.
 
   SOMANDO_CALCULANDO_MEDIA.ALG -> Programa que executa soma e posteriomente calcula a média.
+
+  MULTIPLICACAO.ALG -> Programa que efetuada a operação matemática da multiplicação.
+
+  SUBTRACAO.ALG -> Programa que efetua a operação matemática da subtração.
+
+  DIVISÃO.ALG -> Programa que efetua a operação matemática da divisão.
