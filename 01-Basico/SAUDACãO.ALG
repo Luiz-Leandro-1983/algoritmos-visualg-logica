@@ -11,7 +11,7 @@ Var
    idade: inteiro
    peso: real
    altura: real
-   genero: caractere
+   gênero: caractere
 
 
 Inicio
