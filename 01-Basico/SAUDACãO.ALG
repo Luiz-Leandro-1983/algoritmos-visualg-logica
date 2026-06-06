@@ -1,8 +1,8 @@
 Algoritmo "Saudação"
 
 Unimar - Universidade de Marília
-Graduacao: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
-Disciplina   : [Algoritmos e Logica de Programacao]
+Graduação: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
+Disciplina   : [Algoritmos e Lógica de Programação]
 Professor   : Ronie Tokumo
 
 Var
@@ -36,11 +36,11 @@ Inicio
    leia (altura)
    escreval ("")
 
-   escreva ( " Digite Seu Genero: " )
+   escreva ( " Digite Seu Gênero: " )
    leia (genero)
    escreval ("")
 
-   escreva ( " Ola " , nome ,  " === Seja Bem Vindo(a) Ao Mundo Da Programacao! === ")
+   escreva ( " Olá " , nome ,  " === Seja Bem Vindo(a) Ao Mundo Da Programacao! === ")
    escreval ("")
 
 Fimalgoritmo
