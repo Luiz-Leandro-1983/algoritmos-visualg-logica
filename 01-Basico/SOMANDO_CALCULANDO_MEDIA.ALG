@@ -1,6 +1,6 @@
 Algoritmo "somando_calculando_media"
 
- Unimar - Universidade de Marilia
+Unimar - Universidade de Marilia
 // Graduacao: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
 // Disciplina   : [Algoritmos e Logica de Programacao]
 // Professor   : Ronie Tokumo
