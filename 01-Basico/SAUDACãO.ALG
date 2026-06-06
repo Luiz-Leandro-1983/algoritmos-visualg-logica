@@ -40,7 +40,7 @@ Inicio
    leia (genero)
    escreval ("")
 
-   escreva ( " Olá " , nome ,  " === Seja Bem Vindo(a) Ao Mundo Da Programacao! === ")
+   escreva ( " Olá " , nome ,  " === Seja Bem Vindo(a) Ao Mundo Da Programação! === ")
    escreval ("")
 
 Fimalgoritmo
