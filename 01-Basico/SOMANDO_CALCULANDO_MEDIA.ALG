@@ -1,6 +1,6 @@
 Algoritmo "somando_calculando_media"
 
-// Unimar - Universidade de Marilia
+ Unimar - Universidade de Marilia
 // Graduacao: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
 // Disciplina   : [Algoritmos e Logica de Programacao]
 // Professor   : Ronie Tokumo
@@ -26,10 +26,10 @@ Inicio
    soma <- n1+n2
    media <- soma / 2
 
-   escreval ( " O Resultado da Soma é: " , soma )
+   escreval ( " O Resultado da Soma Ã©: " , soma )
    escreval ("")
 
-   escreval ( " A Media dos Lançamentos é: " , media )
+   escreval ( " A Media dos LanÃ§amentos Ã©: " , media )
    escreval ("")
 
    escreval ( " ||| Soma e Media Realizadas com Exito ||| " )
