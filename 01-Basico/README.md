@@ -15,4 +15,4 @@
 
   ## Lista de Exercícios Prontos ##
 
-  `SAUDAÇÃO.ALG -> Programa de boas vindas: Lê os dados do usuarios e exibe mensagem de boas vindas.
+  SAUDAÇÃO.ALG -> Programa de boas vindas: Lê os dados do usuarios e exibe mensagem de boas vindas.
