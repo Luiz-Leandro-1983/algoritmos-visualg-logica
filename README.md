@@ -1,7 +1,8 @@
 # algoritmos-visualg-logica
 
+Markdown
 <p align="center">
-  <img src="images/banner.png" alt="Banner VisualG" width="100%">
+  <img src="https://raw.githubusercontent.com/SEU-USUARIO/algoritmos-visualg-logica/main/images/banner.png" width="100%">
 </p>
 
 # 💻 Algoritmos VisualG
