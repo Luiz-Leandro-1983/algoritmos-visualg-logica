@@ -1,6 +1,6 @@
 Algoritmo "Saudação"
 
-// Unimar - Universidade de Marilia
+// Unimar - Universidade de Marília
 // Graduacao: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
 // Disciplina   : [Algoritmos e Logica de Programacao]
 // Professor   : Ronie Tokumo
