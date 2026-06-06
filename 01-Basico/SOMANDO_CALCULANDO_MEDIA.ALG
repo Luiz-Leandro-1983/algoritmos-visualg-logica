@@ -1,8 +1,8 @@
 Algoritmo "somando_calculando_media"
 
-Unimar - Universidade de Marilia
-// Graduacao: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
-// Disciplina   : [Algoritmos e Logica de Programacao]
+Unimar - Universidade de Marília
+// Graduação: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
+// Disciplina   : [Algoritmos e Lógica de Programação]
 // Professor   : Ronie Tokumo
 
 Var
@@ -12,7 +12,7 @@ Var
 
 Inicio
 
-   Escreval ( " *** Programa de Soma e Media *** " )
+   Escreval ( " *** Programa de Soma e Média *** " )
    escreval ("")
 
    escreva ( " Lance o Primeiro Valor: " )
@@ -29,9 +29,9 @@ Inicio
    escreval ( " O Resultado da Soma é: " , soma )
    escreval ("")
 
-   escreval ( " A Media dos Lançamentos é: " , media )
+   escreval ( " A Media dos Lançamentos é: " , média )
    escreval ("")
 
-   escreval ( " ||| Soma e Media Realizadas com Exito ||| " )
+   escreval ( " ||| Soma e Média Realizadas com Exito ||| " )
 
 Fimalgoritmo
