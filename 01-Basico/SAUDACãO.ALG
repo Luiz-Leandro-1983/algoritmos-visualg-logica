@@ -17,7 +17,7 @@ Var
 Inicio
 
    escreva ( " Digite Seu Curso: " )
-   leia (Curso)
+   leia (curso)
    escreval ("")
 
    escreva ( " Digite Seu Nome: " )
@@ -37,7 +37,7 @@ Inicio
    escreval ("")
 
    escreva ( " Digite Seu Gênero: " )
-   leia (genero)
+   leia (gênero)
    escreval ("")
 
    escreva ( " Olá " , nome ,  " === Seja Bem Vindo(a) Ao Mundo Da Programacao! === ")
