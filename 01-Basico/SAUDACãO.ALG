@@ -11,7 +11,7 @@ Var
    idade: inteiro
    peso: real
    altura: real
-   gênero: caractere
+   genero: caractere
 
 
 Inicio
@@ -37,7 +37,7 @@ Inicio
    escreval ("")
 
    escreva ( " Digite Seu Gênero: " )
-   leia (gênero)
+   leia (genero)
    escreval ("")
 
    escreva ( " Olá " , nome ,  " === Seja Bem Vindo(a) Ao Mundo Da Programacao! === ")
