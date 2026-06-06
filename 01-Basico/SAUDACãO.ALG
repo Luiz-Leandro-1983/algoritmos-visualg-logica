@@ -36,7 +36,7 @@ Inicio
    leia (altura)
    escreval ("")
 
-   escreva ( " Digite Seu genero: " )
+   escreva ( " Digite Seu Gênero: " )
    leia (genero)
    escreval ("")
 
