@@ -36,3 +36,7 @@
   10 - MAIOR_MENOR_IGUAIS -> Programa que após leitura de 02 numeros declara qual é maior, menor ou se são iguais.
 
   11 - CONTAGEM_1_A_10.ALG -> Programa que faz contagem de 01 até 10.
+
+  12 - TABUADA.ALG -> Programa que processa tabuadas.
+
+  13 - TODAS_AS_TABUADAS -> Programa que processa todas as tabuada de 01 até 10
