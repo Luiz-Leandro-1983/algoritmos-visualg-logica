@@ -30,3 +30,5 @@
   07_DOBRO_TRIPLO.ALG -> Programa que calcula o dobro e triplo do número lançado.
 
   08_ANTECESSOR_SUCESSOR.ALG -> Programa que ao pedir um número, processa e exibe seu antecessor e sucessor.
+
+  09_PAR_IMPAR.ALG -> Programa que declara se número digitado é par ou impar.
