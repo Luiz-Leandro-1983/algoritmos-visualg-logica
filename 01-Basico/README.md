@@ -26,3 +26,5 @@
   SUBTRACAO.ALG -> Programa que efetua a operação matemática da subtração.
 
   DIVISÃO.ALG -> Programa que efetua a operação matemática da divisão.
+
+  ANTECESSOR_SUCESSOR.ALG -> Programa Que ao Pedir um Número, Processa e exibe seu Antecessor e Sucessor.
