@@ -15,7 +15,7 @@
 
   ## Lista de Exercícios Prontos ##
 
-  01_SAUDAÇÃO.ALG -> Programa de boas vindas: Lê os dados do usuarios e exibe mensagem de boas vindas.
+  01_SAUDAÇÃO.ALG -> Programa de boas vindas: Lê os dados do usuario e exibe mensagem de boas vindas.
 
   02_SOMA.ALG -> Programa que realiza a operação matemática da soma.
 
