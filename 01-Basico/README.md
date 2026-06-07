@@ -34,3 +34,5 @@
   09 - PAR_IMPAR.ALG -> Programa que declara se número digitado é par ou impar.
 
   10 - MAIOR_MENOR_IGUAIS -> Programa que após leitura de 02 numeros declara qual é maior, menor ou se são iguais.
+
+  11 - CONTAGEM_1_A_10.ALG -> Programa que faz contagem de 01 até 10.
