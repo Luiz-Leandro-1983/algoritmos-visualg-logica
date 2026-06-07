@@ -27,6 +27,6 @@
 
   06_DIVISÃO.ALG -> Programa que efetua a operação matemática da divisão.
 
-  07_DOBRO E TRIPLO.ALG -> Programa Que Calcula o Dobro e Triplo do Número Lançado.
+  07_DOBRO E TRIPLO.ALG -> Programa que calcula o dobro e triplo do número lançado.
 
-  08_ANTECESSOR_SUCESSOR.ALG -> Programa Que ao Pedir um Número, Processa e exibe seu Antecessor e Sucessor.
+  08_ANTECESSOR_SUCESSOR.ALG -> Programa que ao pedir um número, processa e exibe seu antecessor e sucessor.
