@@ -1,4 +1,4 @@
-Algoritmo "01_Saudação"
+Algoritmo "Saudacao"
 
 Unimar - Universidade de Marília
 Graduação: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
