@@ -15,18 +15,18 @@
 
   ## Lista de Exercícios Prontos ##
 
-  SAUDAÇÃO.ALG -> Programa de boas vindas: Lê os dados do usuarios e exibe mensagem de boas vindas.
+  01_SAUDAÇÃO.ALG -> Programa de boas vindas: Lê os dados do usuarios e exibe mensagem de boas vindas.
 
-  SOMA.ALG -> Programa que realiza a operação matemática da soma.
+  02_SOMA.ALG -> Programa que realiza a operação matemática da soma.
 
-  SOMANDO_CALCULANDO_MEDIA.ALG -> Programa que executa soma e posteriomente calcula a média.
+  03_SOMANDO_CALCULANDO_MEDIA.ALG -> Programa que executa soma e posteriomente calcula a média.
 
-  MULTIPLICACAO.ALG -> Programa que efetuada a operação matemática da multiplicação.
+  04_MULTIPLICACAO.ALG -> Programa que efetuada a operação matemática da multiplicação.
 
-  SUBTRACAO.ALG -> Programa que efetua a operação matemática da subtração.
+  05_SUBTRACAO.ALG -> Programa que efetua a operação matemática da subtração.
 
-  DIVISÃO.ALG -> Programa que efetua a operação matemática da divisão.
+  06_DIVISÃO.ALG -> Programa que efetua a operação matemática da divisão.
 
-  DOBRO E TRIPLO.ALG -> Programa Que Calcula o Dobro e Triplo do Número Lançado.
+  07_DOBRO E TRIPLO.ALG -> Programa Que Calcula o Dobro e Triplo do Número Lançado.
 
-  ANTECESSOR_SUCESSOR.ALG -> Programa Que ao Pedir um Número, Processa e exibe seu Antecessor e Sucessor.
+  08_ANTECESSOR_SUCESSOR.ALG -> Programa Que ao Pedir um Número, Processa e exibe seu Antecessor e Sucessor.
