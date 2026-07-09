@@ -40,3 +40,5 @@
   12 - TABUADA.ALG -> Programa que processa tabuadas.
 
   13 - TODAS_AS_TABUADAS -> Programa que processa todas as tabuada de 01 até 10
+
+  14 - CONVERSAO_CELSIUS_FAHRENHEIT -> Programa de cálculo de conversão. 
