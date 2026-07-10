@@ -4,6 +4,7 @@ Algoritmo "10_maior_menor_iguais"
 // Graduação: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
 // Disciplina   : [Algorítimos e Lógica de Programação]
 // Professor   : Ronie Tokumo
+// Aluno : Luiz Leandro de Oliveira
 
 Var
 
