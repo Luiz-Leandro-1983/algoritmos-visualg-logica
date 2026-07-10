@@ -1,9 +1,10 @@
-Algoritmo "dobro_triplo"
+Algoritmo "07_dobro_triplo"
 
 // Unimar - Universidade de Marilia
 // Graduacao: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
 // Disciplina   : [Algoritmos e Logica de Programacao]
 // Professor   : Ronie Tokumo
+// Aluno : Luiz Leandro de Oliveira
 
 Var
 
@@ -14,14 +15,14 @@ Inicio
       escreval ( " === Programa de Calculo do Dobro e Triplo === " )
       escreval("")
       
-      escreva ( " Digite um Número : " )
+      escreva ( " Digite um NÃºmero : " )
       leia(numero)
       escreval("")
       
       dobro <- numero * 2
       triplo <- numero * 3
       
-      escreval ( " Número Lançado : " , numero )
+      escreval ( " NÃºmero LanÃ§ado : " , numero )
       escreval ( " Dobro : " , dobro )
       escreval ( " Triplo : " , triplo )
       escreval("")
