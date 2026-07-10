@@ -41,4 +41,6 @@
 
   13 - TODAS_AS_TABUADAS.ALG -> Programa que processa todas as tabuada de 01 até 10
 
-  14 - CONVERSAO_CELSIUS_FAHRENHEIT.ALG -> Programa de cálculo de conversão. 
+  14 - CONVERSAO_CELSIUS_FAHRENHEIT.ALG -> Programa de cálculo de conversão.
+
+  15 - MEDIA_03_NOTAS.ALG -> Programa que ao receber 03 notas calcula média.
