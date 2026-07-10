@@ -1,4 +1,4 @@
-Algoritmo "multiplicacao"
+Algoritmo "04_multiplicacao"
 
 // Unimar - Universidade de Marilia
 // Graduacao: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
@@ -11,23 +11,23 @@ Var
 
 Inicio
 
-      escreval ( " == Programa de Operação Matemática: Multiplicação == " )
+      escreval ( " == Programa de OperaÃ§Ã£o MatemÃ¡tica: MultiplicaÃ§Ã£o == " )
       escreval("")
       
-      escreva( " Faça o Lançamento do Primeiro Número: " )
+      escreva( " FaÃ§a o LanÃ§amento do Primeiro NÃºmero: " )
       leia (num1)
       escreval("")
       
-      escreva ( " Por Qual Número Gostaria de Multiplicar? : " )
+      escreva ( " Por Qual NÃºmero Gostaria de Multiplicar? : " )
       leia (num2)
       escreval("")
       
       resultado <- num1 * num2
       
-      escreval ( " O Resultado da Multiplicação é : " , resultado )
+      escreval ( " O Resultado da MultiplicaÃ§Ã£o Ã© : " , resultado )
       escreval ("")
       
-      escreval( " === Multiplicação Efetuada Com Sucesso === ")
+      escreval( " === MultiplicaÃ§Ã£o Efetuada Com Sucesso === ")
       escreval ("")
 
       Fimalgoritmo
