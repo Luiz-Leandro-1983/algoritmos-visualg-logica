@@ -46,3 +46,5 @@
   15 - MEDIA_03_NOTAS.ALG -> Programa que ao receber 03 notas calcula média.
 
   16 - CALCULO_IMC.ALG -> Programa que ao receber os dados de altura e peso processa o IMC.
+
+  17 - MAIOR_03_NUMEROS.ALG -> Programa que recebe 03 números, processa e define qual é o maior.
