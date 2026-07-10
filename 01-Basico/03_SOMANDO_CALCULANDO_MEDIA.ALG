@@ -4,7 +4,7 @@ Unimar - Universidade de Marília
 // Graduação: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
 Disciplina   : [Algoritmos e Lógica de Programação]
 // Professor   : Ronie Tokumo
-// Aluno :  Luiz Leandro de Oliveira
+// Aluno :   Luiz Leandro de Oliveira
 
 Var
 
