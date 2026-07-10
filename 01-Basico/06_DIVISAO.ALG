@@ -1,4 +1,4 @@
-Algoritmo "divisao_segura"
+Algoritmo "06_divisao"
 
 // Unimar - Universidade de Marilia
 // Graduacao: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
@@ -11,7 +11,7 @@ Var
 
 Inicio
 
-   escreval( " Programa da OperaÁ„o Matem·tica da Divis„o " )
+   escreval( " Programa da Opera√ß√£o Matem√°tica da Divis√£o " )
    escreval("")
 
    escreva( " Digite o Dividendo : " )
@@ -25,16 +25,16 @@ Inicio
    se num2 <> 0 entao
       resultado <- num1 / num2
 
-      escreval ( " Resultado da Divis„o : " , resultado )
+      escreval ( " Resultado da Divis√£o : " , resultado )
       escreval("")
 
    senao
 
-      escreval ( " Erro : Divis„o por zero n„o È Permitida " )
+      escreval ( " Erro : Divis√£o por zero n√£o √© Permitida " )
       escreval("")
    fimse
 
-   escreval( " === OperaÁ„o de Divis„o Realizada com Sucesso === " )
+   escreval( " === Opera√ß√£o de Divis√£o Realizada com Sucesso === " )
    escreval ("")
 
 
