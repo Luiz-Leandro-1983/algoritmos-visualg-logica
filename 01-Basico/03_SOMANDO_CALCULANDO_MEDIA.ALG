@@ -1,4 +1,4 @@
-Algoritmo "somando_calculando_media"
+Algoritmo "03_somando_calculando_media"
 
 Unimar - Universidade de Marília
 // Graduação: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
