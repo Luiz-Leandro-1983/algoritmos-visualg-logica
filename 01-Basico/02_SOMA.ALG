@@ -1,4 +1,4 @@
-Algoritmo "soma"
+Algoritmo "02_soma"
 
 // Unimar - Universidade de Marilia
 // Graduacao: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
