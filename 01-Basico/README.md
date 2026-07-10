@@ -15,36 +15,36 @@
 
   ## Lista de Exercícios Prontos ##
 
-  01 - SAUDAÇÃO.ALG -> Programa de boas vindas: Lê os dados do usuario e exibe mensagem de boas vindas.
+  01_SAUDACAO.ALG -> Programa de boas vindas: Lê os dados do usuario e exibe mensagem de boas vindas.
 
-  02 - SOMA.ALG -> Programa que realiza a operação matemática da soma.
+  02_SOMA.ALG -> Programa que realiza a operação matemática da soma.
 
-  03 - SOMANDO_CALCULANDO_MEDIA.ALG -> Programa que executa soma e posteriomente calcula a média.
+  03_SOMANDO_CALCULANDO_MEDIA.ALG -> Programa que executa soma e posteriomente calcula a média.
 
-  04 - MULTIPLICACAO.ALG -> Programa que efetuada a operação matemática da multiplicação.
+  04_MULTIPLICACAO.ALG -> Programa que efetuada a operação matemática da multiplicação.
 
-  05 - SUBTRACAO.ALG -> Programa que efetua a operação matemática da subtração.
+  05_SUBTRACAO.ALG -> Programa que efetua a operação matemática da subtração.
 
-  06 - DIVISÃO.ALG -> Programa que efetua a operação matemática da divisão.
+  06_DIVISÃO.ALG -> Programa que efetua a operação matemática da divisão.
 
-  07 - DOBRO_TRIPLO.ALG -> Programa que calcula o dobro e triplo do número lançado.
+  07_DOBRO_TRIPLO.ALG -> Programa que calcula o dobro e triplo do número lançado.
 
-  08 - ANTECESSOR_SUCESSOR.ALG -> Programa que ao pedir um número, processa e exibe seu antecessor e sucessor.
+  08_ANTECESSOR_SUCESSOR.ALG -> Programa que ao pedir um número, processa e exibe seu antecessor e sucessor.
 
-  09 - PAR_IMPAR.ALG -> Programa que declara se número digitado é par ou impar.
+  09_PAR_IMPAR.ALG -> Programa que declara se número digitado é par ou impar.
 
-  10 - MAIOR_MENOR_IGUAIS -> Programa que após leitura de 02 numeros declara qual é maior, menor ou se são iguais.
+  10_MAIOR_MENOR_IGUAIS -> Programa que após leitura de 02 numeros declara qual é maior, menor ou se são iguais.
 
-  11 - CONTAGEM_1_A_10.ALG -> Programa que faz contagem de 01 até 10.
+  11_CONTAGEM_1_A_10.ALG -> Programa que faz contagem de 01 até 10.
 
-  12 - TABUADA.ALG -> Programa que processa tabuadas.
+  12_TABUADA.ALG -> Programa que processa tabuadas.
 
-  13 - TODAS_AS_TABUADAS.ALG -> Programa que processa todas as tabuada de 01 até 10
+  13_TODAS_AS_TABUADAS.ALG -> Programa que processa todas as tabuada de 01 até 10
 
-  14 - CONVERSAO_CELSIUS_FAHRENHEIT.ALG -> Programa de cálculo de conversão.
+  14_CONVERSAO_CELSIUS_FAHRENHEIT.ALG -> Programa de cálculo de conversão.
 
-  15 - MEDIA_03_NOTAS.ALG -> Programa que ao receber 03 notas calcula média.
+  15_MEDIA_03_NOTAS.ALG -> Programa que ao receber 03 notas calcula média.
 
-  16 - CALCULO_IMC.ALG -> Programa que ao receber os dados de altura e peso processa o IMC.
+  16_CALCULO_IMC.ALG -> Programa que ao receber os dados de altura e peso processa o IMC.
 
-  17 - MAIOR_03_NUMEROS.ALG -> Programa que recebe 03 números, processa e define qual é o maior.
+  17_MAIOR_03_NUMEROS.ALG -> Programa que recebe 03 números, processa e define qual é o maior.
