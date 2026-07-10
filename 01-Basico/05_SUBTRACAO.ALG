@@ -1,4 +1,4 @@
-Algoritmo "subtracao"
+Algoritmo "05_subtracao"
 
 // Unimar - Universidade de Marilia
 // Graduacao: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
@@ -11,22 +11,22 @@ Var
 
 Inicio
 
-      escreval ( " == Programa de Operação Matemática: Subtração == " )
+      escreval ( " == Programa de OperaÃ§Ã£o MatemÃ¡tica: SubtraÃ§Ã£o == " )
       escreval("")
       
-      escreva ( " Faça o Lançamento do Primeiro Número : " )
+      escreva ( " FaÃ§a o LanÃ§amento do Primeiro NÃºmero : " )
       leia (num1)
       escreval("")
       
-      escreva ( " Faça o Lançamento do Segundo Número : ")
+      escreva ( " FaÃ§a o LanÃ§amento do Segundo NÃºmero : ")
       leia (num2)
       escreval("")
       
       resultado <- num1 - num2
       
-      escreval ( " Resultado da Operação : " , resultado )
+      escreval ( " Resultado da OperaÃ§Ã£o : " , resultado )
       escreval ("")
       
-      escreval ( " === Operação de Subtração Realizada === " )
+      escreval ( " === OperaÃ§Ã£o de SubtraÃ§Ã£o Realizada === " )
 
 Fimalgoritmo
