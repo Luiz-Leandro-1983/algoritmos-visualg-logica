@@ -1,8 +1,8 @@
-Algoritmo "maior_menor_iguais"
+Algoritmo "10_maior_menor_iguais"
 
-// Unimar - Universidade de Marília
-// Graduação: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
-// Disciplina   : [Algorítimos e Lógica de Programação]
+// Unimar - Universidade de MarÃ­lia
+// GraduaÃ§Ã£o: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
+// Disciplina   : [AlgorÃ­timos e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Ronie Tokumo
 
 Var
@@ -14,26 +14,26 @@ Inicio
       escreval( " ===== Maior, Menor ou Igual ===== " )
       escreval("")
 
-      escreva ( " Digite o Primeiro Número: " )
+      escreva ( " Digite o Primeiro NÃºmero: " )
       leia(num1)
       escreval("")
       
-      escreva ( " Digite o Segundo Número: " )
+      escreva ( " Digite o Segundo NÃºmero: " )
       leia(num2)
       escreval("")
       
       se (num1 > num2) entao
-      escreval( " O Maior Número é: " , num1 )
+      escreval( " O Maior NÃºmero Ã©: " , num1 )
       escreval("")
 
       senao
       
       se (num2 > num1) entao
-      escreval  ( " O Maior Número é " , num2 )
+      escreval  ( " O Maior NÃºmero Ã© " , num2 )
       escreval("")
 
       senao
-      escreval ( " Os Dois Números São Iguais " )
+      escreval ( " Os Dois NÃºmeros SÃ£o Iguais " )
       escreval("")
 
       fimse
