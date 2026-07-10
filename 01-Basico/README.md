@@ -44,3 +44,5 @@
   14 - CONVERSAO_CELSIUS_FAHRENHEIT.ALG -> Programa de cálculo de conversão.
 
   15 - MEDIA_03_NOTAS.ALG -> Programa que ao receber 03 notas calcula média.
+
+  16 - CALCULO_IMC.ALG -> Programa que ao receber os dados de altura e peso processa o IMC.
