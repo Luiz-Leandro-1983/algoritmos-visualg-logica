@@ -1,8 +1,8 @@
-Algoritmo "calcular_idade_atual"
+Algoritmo "22_calcular_idade_atual"
 
-  // Unimar - Universidade de Marília
-  // Graduação: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
-  // Disciplina   : [Algorítimos e Lógica de Programação]
+  // Unimar - Universidade de MarÃ­lia
+  // GraduaÃ§Ã£o: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
+  // Disciplina   : [AlgorÃ­timos e LÃ³gica de ProgramaÃ§Ã£o]
   // Professor   : Ronie Tokumo
   // Aluno   : Luiz Leandro de Oliveira
 
@@ -22,7 +22,7 @@ Inicio
       
       idade <- AnoAtual - anoNascimento
       
-      escreva (" A Idade Atual é De :" , idade, " Anos ." )
+      escreva (" A Idade Atual Ã© De :" , idade, " Anos ." )
       
 
 Fimalgoritmo
