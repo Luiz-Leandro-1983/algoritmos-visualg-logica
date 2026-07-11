@@ -1,4 +1,12 @@
-# SOBRE ESSE REPOSITÓRIO
+# REPOSITÓRIO: Algoritmos e Lógica de Programação.
+
+**Curso**:Engenharia de Software -EAD Semipresencial
+**Disciplina**: Algoritmos e Lógica de Programação.
+**Professor**: Ronnie Tokumo
+**Aluno**: Luiz Leandro de Oliveira 
+
+
+## SOBRE ESSE REPOSITÓRIO
 
 **Esse espaço reúne todos os exercícios práticos desenvolvidos 
 na disciplina, organizados por nível de dificuldade.**
