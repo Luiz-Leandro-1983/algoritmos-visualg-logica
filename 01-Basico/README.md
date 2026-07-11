@@ -2,6 +2,7 @@
 
 ** Esse espaço reúne todos os exercícios práticos desenvolvidos 
 na disciplina, organizados por nível de dificuldade.
+
 ** Os arquivos estão no formato `.ALG`, compatível com o software
 *VisualG*
 
