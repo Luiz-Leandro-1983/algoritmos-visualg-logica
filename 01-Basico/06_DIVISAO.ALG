@@ -4,7 +4,7 @@ Algoritmo "06_divisao"
 // Graduacao: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
 // Disciplina   : [Algoritmos e Logica de Programacao]
 // Professor   : Ronie Tokumo
-
+// Aluno : Luiz Leandro de Oliveira
 Var
 
    num1, num2, resultado: real
