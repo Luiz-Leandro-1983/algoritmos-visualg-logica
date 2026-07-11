@@ -1,8 +1,8 @@
-Algoritmo "contador_negativo"
+Algoritmo "19_contador_negativo"
 
-  // Unimar - Universidade de Marília
-  // Graduação: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
-  // Disciplina   : [Algorítimos e Lógica de Programação]
+  // Unimar - Universidade de MarÃ­lia
+  // GraduaÃ§Ã£o: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
+  // Disciplina   : [AlgorÃ­timos e LÃ³gica de ProgramaÃ§Ã£o]
   // Professor   : Ronie Tokumo
   // Aluno   : Luiz Leandro de Oliveira
 
