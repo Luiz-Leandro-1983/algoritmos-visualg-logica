@@ -1,8 +1,8 @@
 Algoritmo "03_somando_calculando_media"
 
-Unimar - Universidade de Marília
+// Unimar - Universidade de Marília
 // Graduação: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
-Disciplina   : [Algoritmos e Lógica de Programação]
+// Disciplina   : [Algoritmos e Lógica de Programação]
 // Professor   : Ronie Tokumo
 // Aluno :   Luiz Leandro de Oliveira
 
