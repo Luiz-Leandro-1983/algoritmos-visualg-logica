@@ -1,8 +1,8 @@
-Algoritmo "todasAsTabuadas"
+Algoritmo "13_todasAsTabuadas"
 
-// Unimar - Universidade de Marília
-// Graduação: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
-// Disciplina   : [Algorítimos e Lógica de Programação]
+// Unimar - Universidade de MarÃ­lia
+// GraduaÃ§Ã£o: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
+// Disciplina   : [AlgorÃ­timos e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Ronie Tokumo
 
 Var
@@ -13,11 +13,11 @@ Var
 
 Inicio
 
-   escreval ( " => Aqui Estão Todas as Tabuadas de 01 a 10 <= ")
+   escreval ( " => Aqui EstÃ£o Todas as Tabuadas de 01 a 10 <= ")
    escreval("")
 
    para numero de 01 ate 10 faca
-      escreval ( "  XXX Tabuada do Número " , numero ,  " XXX " )
+      escreval ( "  XXX Tabuada do NÃºmero " , numero ,  " XXX " )
       escreva("")
       escreval("")
 
