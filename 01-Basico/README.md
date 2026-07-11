@@ -1,6 +1,6 @@
 # REPOSITÓRIO: Algoritmos e Lógica de Programação.
 
-**Curso** :Engenharia de Software - EAD Semipresencial
+**Curso** : Engenharia de Software - EAD Semipresencial
 
 **Disciplina** : Algoritmos e Lógica de Programação.
 
