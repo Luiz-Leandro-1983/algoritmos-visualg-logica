@@ -1,4 +1,11 @@
-# Nivel Básico
+# SOBRE ESSE REPOSITÓRIO
+
+** Esse espaço reúne todos os exercícios práticos desenvolvidos 
+na disciplina, organizados por nível de dificuldade.
+** Os arquivos estão no formato `.ALG`, compatível com o software
+*VisualG*
+
+## Nivel Básico
 
 ## Exercícios Que Englobam os Seguintes Fundamentos:
 
