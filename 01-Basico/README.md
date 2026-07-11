@@ -34,7 +34,7 @@ na disciplina, organizados por nível de dificuldade.**
 
   ## Lista de Exercícios Prontos ##
 
-  01_SAUDACAO.ALG -> Programa de boas vindas: Lê os dados do usuario e exibe mensagem de boas vindas.
+  01_SAUDACAO.ALG -> Programa de boas vindas: Lê os dados do usuário e exibe mensagem de boas vindas.
 
   02_SOMA.ALG -> Programa que realiza a operação matemática da soma.
 
@@ -64,6 +64,6 @@ na disciplina, organizados por nível de dificuldade.**
 
   15_MEDIA_03_NOTAS.ALG -> Programa que ao receber 03 notas calcula média.
 
-  16_CALCULO_IMC.ALG -> Programa que ao receber os dados de altura e peso processa o IMC.
+  16_CALCULO_IMC.ALG -> Programa que ao receber os dados peso e altura, processa o IMC e da alguns resultados programados.
 
   17_MAIOR_03_NUMEROS.ALG -> Programa que recebe 03 números, processa e define qual é o maior.
