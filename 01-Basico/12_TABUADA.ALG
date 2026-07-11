@@ -1,4 +1,10 @@
-Algoritmo "tabuada"
+Algoritmo "12_tabuada"
+ 
+// Unimar - Universidade de Marília
+// Graduação: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
+// Disciplina   : [Algorítimos e Lógica de Programação]
+// Professor   : Ronie Tokumo
+// Aluno   : Luiz Leandro de Oliveira
 
 Var
 
@@ -9,7 +15,7 @@ Var
 
 Inicio
 
-      escreval ( " === Programa de Execu��o da Tabuada === ")
+      escreval ( " === Programa de Execução da Tabuada === ")
       escreval("")
       
       escreva ( " Digite o Numero da Tabuada: -> " )
