@@ -1,8 +1,8 @@
-Algoritmo "maior_03_numeros"
+Algoritmo "17_maior_03_numeros"
 
-  // Unimar - Universidade de Marília
-  // Graduação: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
-  // Disciplina   : [Algorítimos e Lógica de Programação]
+  // Unimar - Universidade de MarÃ­lia
+  // GraduaÃ§Ã£o: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
+  // Disciplina   : [AlgorÃ­timos e LÃ³gica de ProgramaÃ§Ã£o]
   // Professor   : Ronie Tokumo
   // Aluno   : Luiz Leandro de Oliveira
 
@@ -12,18 +12,18 @@ Var
 
 Inicio
 
-      escreval ( " #### QUAL É O MAIOR NÚMERO? #### " )
+      escreval ( " #### QUAL Ã‰ O MAIOR NÃšMERO? #### " )
       escreval("")
       
-      escreva ( " Digite o Primeiro Número: " )
+      escreva ( " Digite o Primeiro NÃºmero: " )
       leia (num1)
       escreval("")
       
-      escreva ( " Digite o Segundo Número: " )
+      escreva ( " Digite o Segundo NÃºmero: " )
       leia (num2)
       escreval("")
       
-      escreva ( " Digite o Terceiro Número: " )
+      escreva ( " Digite o Terceiro NÃºmero: " )
       leia (num3)
       escreval("")
       
@@ -37,7 +37,7 @@ Inicio
       maior <- num3
       fimse
       
-      escreval( " O Maior Número é: " , maior)
+      escreval( " O Maior NÃºmero Ã©: " , maior)
       
 
 Fimalgoritmo
