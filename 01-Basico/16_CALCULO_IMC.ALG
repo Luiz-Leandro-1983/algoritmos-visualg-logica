@@ -1,8 +1,8 @@
-Algoritmo "calculo_imc"
+Algoritmo "16_calculo_imc"
 
-  // Unimar - Universidade de Marília
-  // Graduação: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
-  // Disciplina   : [Algorítimos e Lógica de Programação]
+  // Unimar - Universidade de MarÃ­lia
+  // GraduaÃ§Ã£o: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
+  // Disciplina   : [AlgorÃ­timos e LÃ³gica de ProgramaÃ§Ã£o]
   // Professor   : Ronie Tokumo
   // Aluno   : Luiz Leandro de Oliveira
 
@@ -27,29 +27,29 @@ Inicio
       
       imc <- peso / ( altura * altura  )
       
-      escreval ( "Seu IMC é: " , imc: 0:2)
+      escreval ( "Seu IMC Ã©: " , imc: 0:2)
       
       Se (imc < 18.5) entao
-          escreval ( " Classificação: Abaixo do Peso " )
+          escreval ( " ClassificaÃ§Ã£o: Abaixo do Peso " )
       Senao
       
          Se (imc < 25) entao
-             escreval ( " Classificação: Peso Normal " )
+             escreval ( " ClassificaÃ§Ã£o: Peso Normal " )
          Senao
       
            Se (imc < 30) entao
-               escreval ( " Classificação: Sobrepeso " )
+               escreval ( " ClassificaÃ§Ã£o: Sobrepeso " )
            Senao
       
              Se (imc < 35) entao
-                 escreval ( " Classificação: Obesidade Grau I " )
+                 escreval ( " ClassificaÃ§Ã£o: Obesidade Grau I " )
              Senao
       
                Se (imc < 40) entao
-                   escreval ( " Classificação: Obesidade Grau II " )
+                   escreval ( " ClassificaÃ§Ã£o: Obesidade Grau II " )
                Senao
 
-                   escreval ( " Classificação: Obesidade Grau III ")
+                   escreval ( " ClassificaÃ§Ã£o: Obesidade Grau III ")
                
                FimSe
              FimSe
