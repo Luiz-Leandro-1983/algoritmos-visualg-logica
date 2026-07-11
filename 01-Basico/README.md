@@ -1,9 +1,9 @@
 # SOBRE ESSE REPOSITÓRIO
 
-** Esse espaço reúne todos os exercícios práticos desenvolvidos 
+**Esse espaço reúne todos os exercícios práticos desenvolvidos 
 na disciplina, organizados por nível de dificuldade.**
 
-** Os arquivos estão no formato `.ALG`, compatível com o software**
+**Os arquivos estão no formato `.ALG`, compatível com o software**
 *VisualG*
 
 ## Nivel Básico
