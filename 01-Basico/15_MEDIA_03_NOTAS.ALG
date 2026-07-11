@@ -1,8 +1,8 @@
-Algoritmo "media_03_notas"
+Algoritmo "15_media_03_notas"
 
- // Unimar - Universidade de MarÌlia
- // GraduaÁ„o: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
- // Disciplina   : [AlgorÌtimos e LÛgica de ProgramaÁ„o]
+ // Unimar - Universidade de Mar√≠lia
+ // Gradua√ß√£o: Engenharia de Software - EAD Semipresencial MOD-1 [2026]
+ // Disciplina   : [Algor√≠timos e L√≥gica de Programa√ß√£o]
  // Professor   : Ronie Tokumo
  // Aluno   : Luiz Leandro de Oliveira
 
@@ -15,7 +15,7 @@ Var
 
 Inicio
 
-      escreval( " #### C¡LCULO DA M…DIA DE 03 NOTAS #### " )
+      escreval( " #### C√ÅLCULO DA M√âDIA DE 03 NOTAS #### " )
       escreval("")
       
       escreval("Digite a Primeira Nota")
@@ -32,9 +32,9 @@ Inicio
       
       media <- (nota01 + nota02 + nota03) /3
       
-      escreval ( " A MÈdia de Notas È: " ,media )
+      escreval ( " A M√©dia de Notas √©: " ,media )
       escreval("")
 
-      escreval (" #### PRONTO, M…DIA DE NOTAS PROCESSADA. #### ")
+      escreval (" #### PRONTO, M√âDIA DE NOTAS PROCESSADA. #### ")
       escreval("")
 Fimalgoritmo
