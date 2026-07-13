@@ -67,3 +67,15 @@ na disciplina, organizados por nível de dificuldade.**
   16_CALCULO_IMC.ALG -> Programa que ao receber os dados peso e altura, processa o IMC e da alguns resultados programados.
 
   17_MAIOR_03_NUMEROS.ALG -> Programa que recebe 03 números, processa e define qual é o maior.
+
+  18_SOMA_PARES.ALG -> Programa que identifica os números pares dentro da lacuna lançada e soma.
+
+  19_CONTADOR_NEGATIVO.ALG -> Programa que executa contagem de todos os números negativos a partir de um número lançado pelo usuário.
+
+  20_VERIFICA_NUMERO_10_20 -> Programa que analisa se o número lançado esta entre 10 e 20.
+
+  21_CONVERSÃO_REAL_DOLAR.ALG -> Programa que faz a conversão de real em dolar.
+
+  22_CALCULAR_IDADE_ATUAL -> Programa que ao receber os dados de data de nascimento e ano atual calcula idade.
+
+  23_VETOR_SIMPLES -> Programa que executa o acúmulo ordenado em memória através de um comando de armazenamentos simples.
