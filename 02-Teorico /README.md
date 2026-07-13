@@ -8,9 +8,9 @@
 
 # Algoritmos e Lógica de Programação
 
-**Professor:** Ronie Tokumo
+**Professor:** Ronie Tokumo.
 
-**Aluno:** Luiz Leandro de Oliveira
+**Aluno:** Luiz Leandro de Oliveira.
 
 ---
 
