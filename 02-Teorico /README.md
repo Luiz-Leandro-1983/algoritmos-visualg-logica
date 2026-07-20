@@ -303,19 +303,19 @@ Falso
 
 ## Aritméticos
 
-*
+ *
 
--
+ -
 
-*
+ *
 
-/
+ /
 
-%
+ %
 
-^
+ ^
 
----
+ ---
 
 ## Relacionais
 
@@ -603,7 +603,7 @@ Menor ocorrência de efeitos colaterais.
 
 # CONCLUSÃO
 
-A disciplina de Algoritmos e Lógica de Programação representa o primeiro passo para a formação de qualquer profissional da área de Tecnologia da Informação.
+A disciplina de Algoritmos e Lógica de Programação representa o primeiro passo para a formação de qualquer profissional da área de Engenharia de Software.
 
 Ao longo do curso são desenvolvidas competências essenciais para analisar problemas, elaborar soluções eficientes e estruturar programas utilizando raciocínio lógico e técnicas de programação.
 
